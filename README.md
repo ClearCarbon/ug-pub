@@ -34,14 +34,13 @@ and have permission to deploy to the Octopress host.
 * update the path to your Octopress site and the path to the post in publisher.rb
 * Run 'ruby ug_pub_runner.rb' in your terminal
 
-
 # Todo
 
 * Move all config out to separate file or even better ENV variables/figaro
 * Actually run 'bundle exec rake deploy' when updating the Octopress site
 * Allow posting to more end points (other CMS software, more social networks)
 * Allow listening to other end points
-* Allow posting directly via the app to support The Indie Web
+* Allow posting directly via the app to support [the Indie Web](http://indiewebify.me/)
 * Allow post updates to be generated with templates
 
 Please contribute any improvements back with a pull request.
