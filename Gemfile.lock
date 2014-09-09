@@ -23,7 +23,6 @@ GEM
     eventmachine (1.0.3)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
-    geocoder (1.2.4)
     http (0.6.2)
       http_parser.rb (~> 0.6.0)
     http_parser.rb (0.6.0)
@@ -63,7 +62,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  geocoder
   pry
   tweetstream
   twitter
